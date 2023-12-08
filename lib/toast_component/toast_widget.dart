@@ -1,5 +1,6 @@
 part of vtnet_components;
 
+///
 class BaseToast extends StatelessWidget {
   const BaseToast(
       {required this.toastType,

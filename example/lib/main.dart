@@ -1,3 +1,5 @@
+// ignore_for_file: depend_on_referenced_packages
+
 import 'package:flutter/material.dart';
 import 'package:vtnet_components/vtnet_components.dart';
 
@@ -35,27 +37,35 @@ class HomePage extends StatelessWidget {
         padding: EdgeInsets.symmetric(horizontal: 20),
         child: Column(
           children: [
-            SizedBox(height: 50,),
+            SizedBox(
+              height: 50,
+            ),
             BaseToast(
                 toastType: ToastType.info,
                 message: 'ToastType.info',
                 buttonTitle: 'Button',
                 isHasAction: true,
                 isHasTrailing: true),
-            SizedBox(height: 10,),
+            SizedBox(
+              height: 10,
+            ),
             BaseToast(
               toastType: ToastType.warning,
               message: 'ToastType.warning',
               buttonTitle: 'Button',
               isHasAction: true,
             ),
-            SizedBox(height: 10,),
+            SizedBox(
+              height: 10,
+            ),
             BaseToast(
                 toastType: ToastType.error,
                 message: 'ToastType.error',
                 buttonTitle: 'Button',
                 isHasTrailing: true),
-            SizedBox(height: 10,),
+            SizedBox(
+              height: 10,
+            ),
             BaseToast(
                 toastType: ToastType.success,
                 message: 'ToastType.success',

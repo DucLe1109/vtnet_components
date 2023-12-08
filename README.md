@@ -1,5 +1,5 @@
-This package includes view components designed by Viettel Network Mobile Team that make your project
-development is easier and synchronous with all of Viettel's mobile apps.
+This package includes view components designed by DLH Company Mobile Team that make your project
+development is easier and synchronous with all of DLH's mobile apps.
 
 ## Features
 Make your UI more charming, engaging and high user experience by applying or custom all view components such as:
@@ -38,7 +38,6 @@ showToast(
 ```
 
 ## Additional information
-All of you can contribute to this package by email for me to add for this project. 
-My email: huyducle1109@gmail.com
-I really appreciate your effort to make project more useful, diversified and provide it to society.
-For more information contact me by Zalo, Viber, Whatsapp: 0961503893
+All of you can contribute to this package by email for me to add to this project. My email: is huyducle1109@gmail.com 
+I appreciate your effort to make the project more useful, and diversified and provide it to society. 
+For more information contact me by Zalo, Viber, or Whatsapp: 0961503893

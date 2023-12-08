@@ -1,5 +1,6 @@
 part of vtnet_components;
 
+///
 class PackageColors {
   PackageColors._();
 

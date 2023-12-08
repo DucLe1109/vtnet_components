@@ -11,18 +11,21 @@ import 'package:flutter/widgets.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:flutter/services.dart';
 
+///
 class $LibGen {
   const $LibGen();
 
   $LibAssetsGen get assets => const $LibAssetsGen();
 }
 
+///
 class $LibAssetsGen {
   const $LibAssetsGen();
 
   $LibAssetsIconsGen get icons => const $LibAssetsIconsGen();
 }
 
+///
 class $LibAssetsIconsGen {
   const $LibAssetsIconsGen();
 
@@ -43,12 +46,14 @@ class $LibAssetsIconsGen {
   List<SvgGenImage> get values => [icCheck, icClear, icInfo, icWarning];
 }
 
+///
 class Assets {
   Assets._();
 
   static const $LibGen lib = $LibGen();
 }
 
+///
 class AssetGenImage {
   const AssetGenImage(this._assetName);
 
@@ -123,6 +128,7 @@ class AssetGenImage {
   String get keyName => _assetName;
 }
 
+///
 class SvgGenImage {
   const SvgGenImage(this._assetName);
 
